@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: xiaobin1234/myapp:latest  # 指向你的 Docker Hub 镜像
+          image: xiaobin1234/myapp:29e4258c9c68da7172deced564c58f80ab94be87
           ports:
             - containerPort: 80
 ---
