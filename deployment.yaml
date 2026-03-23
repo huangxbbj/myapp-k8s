@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: xiaobin1234/myapp:29e4258c9c68da7172deced564c58f80ab94be87
+          image: xiaobin1234/myapp:d40c60e8881a7315c801c62d9960251ebc5bbed6
           ports:
             - containerPort: 80
 ---
